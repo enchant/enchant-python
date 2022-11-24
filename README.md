@@ -6,7 +6,9 @@ This package makes it easier to integrate with Enchant.com
 
 To generate Enchant Messenger embed codes:
 
-```
+```python
+from enchant import messenger
+messenger.embed_code("abc")
 ```
 
 ## Planned
