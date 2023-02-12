@@ -17,6 +17,6 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
-#[project.urls]
-#"Homepage" = "https://github.com/enchant/enchant-python"
+[project.urls]
+"Homepage" = "https://github.com/enchant/enchant-python"
 #"Bug Tracker" = "https://github.com/enchant/enchant-python/issues"
